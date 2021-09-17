@@ -1,2 +1,1 @@
-# Insert Emoji
- 
+# In the SEO world and in certain academic environments, there is a need to take a chunck of text and rewrite it in a slightly different form. This practice is called Article spinning. Our article rewriter uses the synonym lookup to rewrite the given article. The result may not be in a polished state, but hey it is just fun right?
